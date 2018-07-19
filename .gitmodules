@@ -1,0 +1,3 @@
+[submodule "themes/awayhugo"]
+	path = themes/awayhugo
+	url = git@github.com:dlaub3/awayhugo.git
