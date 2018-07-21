@@ -1,4 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Codejots"
 theme= "awayhugo"
+copyright = "Copyright 20015-{year}"
+homepage = "/"
