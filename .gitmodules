@@ -2,5 +2,5 @@
 	path = themes/awayhugo
 	url = https://github.com/dlaub3/awayhugo.git
 [submodule "content/blog"]
-	path = content/blog
+	path = content
 	url = https://github.com/dlaub3/blog.git
