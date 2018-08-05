@@ -1,0 +1,8 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Codejots"
+theme= "awayhugo"
+copyright = "Copyright 20015-{year}"
+homepage = "/"
+[params]
+   env = 'dev'
