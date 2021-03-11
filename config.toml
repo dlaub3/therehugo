@@ -1,6 +1,7 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Codejots"
+title = "block scope"
 theme= "awayhugo"
 copyright = "Copyright 2015-{year}"
 homepage = "/"
+sectionPagesMenu = "main"
