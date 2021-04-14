@@ -5,3 +5,13 @@ theme= "awayhugo"
 copyright = "Copyright 2015-{year}"
 homepage = "/"
 sectionPagesMenu = "main"
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+[params]
+[markup]
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 3
+    ordered = false

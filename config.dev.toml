@@ -5,10 +5,14 @@ theme= "awayhugo"
 copyright = "Copyright 2015-{year}"
 homepage = "/"
 sectionPagesMenu = "main"
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
 [params]
-   env = 'dev'
+   env = "dev"
 [markup]
   [markup.tableOfContents]
-    endLevel = 2
-    ordered = false
     startLevel = 2
+    endLevel = 3
+    ordered = false
