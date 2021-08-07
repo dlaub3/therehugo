@@ -1,7 +1,7 @@
 ---
 date: {{ .Date }}
 title: "{{ replace .Name "-" " " | title }}"
-description: Implementing the observer design pattern.
+description:
 draft: true
 categories: []
 tags: []
