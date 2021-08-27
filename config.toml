@@ -12,6 +12,9 @@ sectionPagesMenu = "main"
   [[related.indices]]
     name = "series"
     weight = 100
+  [[related.indices]]
+    name = "topic"
+    weight = 100
 [taxonomies]
   category = "categories"
   tag = "tags"
